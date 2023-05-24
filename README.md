@@ -3,7 +3,7 @@
 <p>
   <img
     align="left"
-    src="https://drive.google.com/uc?export=download&id=1oG2RpN54h2aYF5gX43CsdKy6KX2Z9f4V"
+    src="Group (1).jpg"
     style="width: 100%"
        alt="avii1099"
     
