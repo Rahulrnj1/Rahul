@@ -5,14 +5,14 @@
     align="left"
     src="Group (1).jpg"
     style="width: 100%"
-       alt="avii1099"
+       alt="Rahulrnj1"
     
   />
 </p>
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=avii1099&label=Profile%20views&color=0e75b6&style=flat"
-    alt="avii1099"
+    src="https://komarev.com/ghpvc/?username=Rahulrnj1&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Rahulrnj1"
   />
 </p>
 
@@ -439,15 +439,15 @@ articles on **<a href="https://www.instagram.com/lord_rahul_1/"
   &nbsp;<img
     align="center"
     src="rahul.svg"
-    alt="avii1099"
+    alt="Rahulrnj1"
   />
 </p>
 
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=avii1099&"
-    alt="avii1099"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulrnj1&"
+    alt="Rahulrnj1"
   />
 </p>
 a
@@ -455,7 +455,7 @@ a
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
-      src="https://github-profile-trophy.vercel.app/?username=avii1099"
-      alt="avii1099"
+      src="https://github-profile-trophy.vercel.app/?username=Rahulrnj1"
+      alt="Rahulrnj1"
   /></a>
 </p>
