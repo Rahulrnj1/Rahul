@@ -24,7 +24,7 @@
  
 - 💬 Ask me about **Python, Django, AWS,Node.js,FastApi, Web Technologis** 
 
--📫 How to reach me **<a href="mailto:rahulnayan101196@gmail.com">rahulnayan101196@gmail.com</a>**
+- 📫 How to reach me **<a href="mailto:rahulnayan101196@gmail.com">rahulnayan101196@gmail.com</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
