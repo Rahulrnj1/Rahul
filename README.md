@@ -176,7 +176,7 @@ articles on **<a href="https://www.instagram.com/lord_rahul_1/"
     alt="Sublime"
   />
   <img
-    src="https://drive.google.com/uc?export=download&id=1wYKZvREMauIxO9F3AsPwZOxfUZuDgq4e"
+    src="swagger.webp"
     height="28"
     width="107"
     alt="swagger"
