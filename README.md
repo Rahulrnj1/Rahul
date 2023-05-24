@@ -438,7 +438,7 @@ articles on **<a href="https://www.instagram.com/lord_rahul_1/"
 <p>
   &nbsp;<img
     align="center"
-    src="https://drive.google.com/uc?export=download&id=1z2XtJDYNieeG4-w257skrjApb73mhu9_](https://drive.google.com/file/d/1z2XtJDYNieeG4-w257skrjApb73mhu9_/view?usp=sharing)"
+    src="rahul.svg"
     alt="avii1099"
   />
 </p>
