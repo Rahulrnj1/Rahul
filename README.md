@@ -16,14 +16,15 @@
   />
 </p>
 
-- 🔭 I’m currently working as **Python Djnago developer** - 🌱 I’m currently
-learning **Javascreipt Anguler , React framework** - 📝 I regularly write
-articles on **<a href="https://www.instagram.com/lord_rahul_1/"
-  >(https://www.instagram.com/lord_rahul_1/)</a
->** - 💬 Ask me about **Python, Django, AWS,Node.js,FastApi, Web Technologis** -
-📫 How to reach me **<a href="mailto:rahulnayan101196@gmail.com"
-  >rahulnayan101196@gmail.com</a
->**
+- 🔭 I’m currently working as **Python Djnago developer**
+
+- 🌱 I’m currently learning **Javascreipt Anguler , React framework**
+
+- 📝 I regularly write articles on [https://www.instagram.com/_python.py_/](https://www.instagram.com/_python.py_/)
+
+- 💬 Ask me about **Python, Django, AWS, Web Technologis**
+
+- 📫 How to reach me **rahulnayan101196@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
