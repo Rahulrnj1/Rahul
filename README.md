@@ -450,7 +450,6 @@ articles on **<a href="https://www.instagram.com/lord_rahul_1/"
     alt="Rahulrnj1"
   />
 </p>
-a
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
